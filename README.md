@@ -1,6 +1,9 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Nguyen+Van+Hao" alt="Typing SVG" />
 </div>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="450" alt="coding gif" />
+</div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="coding gif" /> 
@@ -44,15 +47,14 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nguyenvanhao-GitHub&show_icons=true&theme=dracula&hide_border=true&count_private=true&v=2025" width="48%" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenvanhao-GitHub&layout=compact&theme=dracula&hide_border=true&v=2025" width="48%" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nguyenvanhao-GitHub&show_icons=true&theme=dracula&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenvanhao-GitHub&layout=compact&theme=dracula&hide_border=true" width="48%" alt="Top Langs" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenvanhao-GitHub&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D&background=20232A&v=2025" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenvanhao-GitHub&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D&background=20232A" alt="GitHub Streak" />
 </div>
 
 <div align="center">

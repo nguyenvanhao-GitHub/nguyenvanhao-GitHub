@@ -44,14 +44,15 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nguyenvanhao-GitHub&show_icons=true&theme=dracula&hide_border=true&bg_color=20232a" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenvanhao-GitHub&layout=compact&theme=dracula&hide_border=true&bg_color=20232a" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nguyenvanhao-GitHub&show_icons=true&theme=dracula&hide_border=true&count_private=true&v=2025" width="48%" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenvanhao-GitHub&layout=compact&theme=dracula&hide_border=true&v=2025" width="48%" alt="Top Langs" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenvanhao-GitHub&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D&background=20232A" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenvanhao-GitHub&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D&background=20232A&v=2025" alt="GitHub Streak" />
 </div>
 
 <div align="center">

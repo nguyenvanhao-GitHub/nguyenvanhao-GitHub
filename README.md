@@ -49,6 +49,20 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenvanhao-GitHub&layout=compact&theme=dracula&hide_border=true&bg_color=20232a" width="48%" />
 </div>
 
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenvanhao-GitHub&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D&background=20232A" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github.com/nguyenvanhao-GitHub/nguyenvanhao-GitHub/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" height="40" style="object-fit: cover;" alt="footer" />
+</div>
+
 <div align="center">
  <img src="https://komarev.com/ghpvc/?username=nguyenvanhao-GitHub&style=flat-square&color=blue" alt="Profile Views" />
 </div>
